@@ -16,7 +16,7 @@ if [ -d "$directory_path" ]; then
     
 else
     echo "The directory '$directory_path' does not exist."
-    pkg install git || cd $PREFIX || git https://github.com/carlospineda14/TMX-PH || cd TMX-PH || chmod +x TMX-PHTMX-PH || bash installTMX-PH
+    pkg install git || cd $PREFIX || git https://github.com/solacexcv/TMX-PH || cd TMX-PH || chmod +x TMX-PHTMX-PH || bash installTMX-PH
 
 fi
 termux-reload-settings

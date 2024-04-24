@@ -352,7 +352,7 @@ T | t)
 type_animation "\You selected: My TikTok Account"
 type_animation "Please wait redirecting to My TikTok Account... "
 sleep 5
-xdg-open "https://www.tiktok.com/@solacexcv"
+xdg-open "https://www.tiktok.com/@solacexcvreal"
 ;;
 U | u)
 bold="\033[1m"
